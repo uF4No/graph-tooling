@@ -62,6 +62,7 @@ type BlockHandler {
 
 type BlockFilter {
   kind: String!
+  every: BigInt
 }
 
 type CallHandler {
