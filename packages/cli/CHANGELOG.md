@@ -1,5 +1,13 @@
 # @graphprotocol/graph-cli
 
+## 0.54.0
+
+### Minor Changes
+
+- [#1407](https://github.com/graphprotocol/graph-tooling/pull/1407)
+  [`d388127`](https://github.com/graphprotocol/graph-tooling/commit/d388127aa46a47feaab5024d0a2f2da49c9cabac)
+  Thanks [@saihaj](https://github.com/saihaj)! - add skipInstall flag for init
+
 ## 0.53.0
 
 ### Minor Changes
