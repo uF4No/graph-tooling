@@ -33,6 +33,7 @@ type DataSource {
 type ContractSource {
   account: String
   startBlock: BigInt
+  endBlock: BigInt
   accounts: PartialAccount
 }
 

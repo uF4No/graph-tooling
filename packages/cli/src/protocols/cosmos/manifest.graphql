@@ -32,6 +32,7 @@ type DataSource {
 
 type ContractSource {
   startBlock: BigInt
+  endBlock: BigInt
 }
 
 type ContractMapping {
